@@ -1,0 +1,10 @@
+---
+sourceLocationPrefix: "/home/user/asf/cloner/gh/clones/A_gsa_DataBeam"
+baselineLinesOfCode: 6839
+unicodeNewlines: true
+columnKind: "utf16"
+primaryLanguage: "javascript"
+creationMetadata:
+  sha: "abbdff5bd6a89541e9e313c365d71c8c889cbe48"
+  cliVersion: "2.11.1"
+  creationTime: "2022-12-13T23:07:09.672900337Z"
